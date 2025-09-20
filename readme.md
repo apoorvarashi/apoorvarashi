@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Apoorva Bhaduria </h1>
+<h1 align="center">Hi 👋, I'm Apoorva Bhadauria </h1>
 <h3 align="center">A passionate developer from Gwalior (M.P.), India</h3>
 
 ---
@@ -7,8 +7,8 @@
 - 🔭 I’m currently pursuing **B.Tech in CSE (3rd Year)**  
 - 🌱 Exploring **Full-Stack Development & Data Science**  
 - 🤝 Open to collaborate on **Web Development, Open Source, and Research Projects**  
-- 🏀 **State-Level Basketball Player** | Vice-Captain of **University Basketball Team**  
-- 🌍 Worked with **10+ clients**, including **4+ international projects**  
+- 🎨 Pationate about hand paintings 
+- 🌍 Worked with different teams one of software testing and another of web development  
 - ⚡ Known for being **disciplined & quick to adapt** to new surroundings  
 
 ---
