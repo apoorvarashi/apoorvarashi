@@ -53,7 +53,7 @@
 ---
 
 ### 💡 Fun Fact
-_"Discipline and adaptability are my strengths, whether it's on the court or in code."_ 🚀  
+_"Discipline and adaptability are my strengths, whether I'm bringing a vision to life on canvas or bringing logic to life in code."_   
 
 
 
