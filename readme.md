@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Singh Chauhan</h1>
+<h1 align="center">Hi 👋, I'm Apoorva Bhaduria </h1>
 <h3 align="center">A passionate developer from Gwalior (M.P.), India</h3>
 
 ---
