@@ -17,19 +17,15 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-singh-chauhan-6a080627a/" target="blank">
+<a href="https://www.linkedin.com/in/apoorva-bhadauria-78963a229/" target="blank">
   <img align="center" src="/images/linkedin.png" alt="LinkedIn" height="40" width="40" />
 </a>
 
   
-<a href="https://x.com/chabhichauhan" target="blank">
-  <img align="center" src="/images/twitter.png" alt="Twitter/X" height="40" width="40" />
-</a>
+
 
   
-  <a href="https://my-protfolio-six-theta.vercel.app/" target="blank">
-  <img align="center" src="/images/ab.png" alt="My-Portfolio" height="40" width="40" />
-</a>
+  
 </p>
 
 ---
